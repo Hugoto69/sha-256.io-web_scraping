@@ -1,3 +1,3 @@
-# sha-256.io-web_scraping
+# sha-256.io Web Scraping
 Here is a Web Scraping program from the sha-256.io website.
 The program is in the compressed .zip file because it is too big for github.
